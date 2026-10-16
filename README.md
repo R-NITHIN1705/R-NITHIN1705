@@ -2,9 +2,6 @@
 ![Sunset Reverie](./Sunset%20Reverie%20Over%20the%20Valley.png)
 
 <hr/>
-
-<h2 align="center">R.SAI NITHIN</h2>
-
 <hr/>
 
 <p align="left">
